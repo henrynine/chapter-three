@@ -8,4 +8,8 @@ module ApplicationHelper
       page_title + " | " + base_title
     end
   end
+
+  def comment
+    #this is used to comment out multiple lines
+  end
 end
